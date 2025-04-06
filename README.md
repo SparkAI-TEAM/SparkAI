@@ -12,7 +12,7 @@ Spark AI  frogenet V1.0   will  landing  at  June.2025
 
 Spark Swap & crosschain bridge is developing in progress.
 
-## Building the source
+## Token Information
 
 Information abount  Spark AI  & POY
 
@@ -21,6 +21,7 @@ Spark AI will be the gas of our chain.
 Poy will be a contract  token.
 
 Spark  AI  totalSupply : 190,000,000
+
 POY totalSupply: 100,000,000
 
 ## Building the source

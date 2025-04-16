@@ -1,4 +1,4 @@
-// Copyright 2014 The go-ethereum Authors & The wodchain authors
+// Copyright 2014 The go-ethereum Authors & The SparkAI authors
 // This file is part of wodchain. Forked from the go-ethereum.
 //
 // go-ethereum is free software: you can redistribute it and/or modify
@@ -209,7 +209,7 @@ func init() {
 	// Initialize the CLI app and start Geth
 	app.Action = geth
 	app.HideVersion = true // we have a command to print the version
-	app.Copyright = "Copyright 2013-2022 The go-ethereum Authors & The wodchain authors"
+	app.Copyright = "Copyright 2013-2022 The go-ethereum Authors & The SparkAI authors"
 	app.Commands = []*cli.Command{
 		// See chaincmd.go:
 		initCommand,

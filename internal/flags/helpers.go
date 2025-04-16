@@ -1,5 +1,5 @@
-// Copyright 2020 The go-ethereum Authors & The wodchain authors
-// This file is part of the wodchain library. Forked from the  go-ethereum project
+// Copyright 2020 The go-ethereum Authors & The SparkAI authors
+// This file is part of The SparkAI library. Forked from the  go-ethereum project
 //
 // The go-ethereum library is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Lesser General Public License as published by
@@ -30,7 +30,7 @@ func NewApp(gitCommit, gitDate, usage string) *cli.App {
 	app.EnableBashCompletion = true
 	app.Version = params.VersionWithCommit(gitCommit, gitDate)
 	app.Usage = usage
-	app.Copyright = "Copyright 2013-2022 The go-ethereum Authors & The wodchain authors#Copyright 2013-2022 The go-wod Authors"
+	app.Copyright = "Copyright 2013-2022 The go-ethereum Authors & The SparkAI authors#Copyright 2013-2022 The go-wod Authors"
 	app.Before = func(ctx *cli.Context) error {
 		MigrateGlobalFlags(ctx)
 		return nil

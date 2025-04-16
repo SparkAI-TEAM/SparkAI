@@ -1,4 +1,4 @@
-// Copyright 2022 The go-ethereum Authors & The wodchain authors
+// Copyright 2022 The go-ethereum Authors & The SparkAI authors
 // This file is part of wodchain. Forked from the go-ethereum.
 //
 // go-ethereum is free software: you can redistribute it and/or modify

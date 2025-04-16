@@ -1,5 +1,5 @@
-// Copyright 2015 The go-ethereum Authors & The wodchain authors
-//Copyright 2023 The Wodchain authors
+// Copyright 2015 The go-ethereum Authors & The SparkAI authors
+//Copyright 2023 The SparkAI authors
 // This file is part of wodchain. Forked from the go-ethereum.
 //
 // go-ethereum is free software: you can redistribute it and/or modify

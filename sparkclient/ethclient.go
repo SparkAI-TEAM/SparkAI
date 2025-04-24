@@ -24,11 +24,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/wodTeam/Wod_Chain"
-	"github.com/wodTeam/Wod_Chain/common"
-	"github.com/wodTeam/Wod_Chain/common/hexutil"
-	"github.com/wodTeam/Wod_Chain/core/types"
-	"github.com/wodTeam/Wod_Chain/rpc"
+	"github.com/sparkAI-Team/SparkAI_Chain"
+	"github.com/sparkAI-Team/SparkAI_Chain/common"
+	"github.com/sparkAI-Team/SparkAI_Chain/common/hexutil"
+	"github.com/sparkAI-Team/SparkAI_Chain/core/types"
+	"github.com/sparkAI-Team/SparkAI_Chain/rpc"
 )
 
 // Client defines typed wrappers for the Ethereum RPC API.
